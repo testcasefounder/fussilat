@@ -19,7 +19,7 @@ export default async function Home() {
 
   return (
     <main>
-      <h1>Supabase Connected ✅</h1>
+      <h1>Supabase korsi</h1>
 
       <pre>{JSON.stringify(data, null, 2)}</pre>
     </main>
